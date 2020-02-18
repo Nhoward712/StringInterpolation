@@ -1,0 +1,37 @@
+/Users/nealhoward/Downloads/NETDBProgramming-Lesson-02/SleepData/bin/Debug/SleepData.exe
+/Users/nealhoward/Downloads/NETDBProgramming-Lesson-02/SleepData/bin/Debug/SleepData.pdb
+/Users/nealhoward/Downloads/NETDBProgramming-Lesson-02/SleepData/obj/x86/Debug/SleepData.exe
+/Users/nealhoward/Downloads/NETDBProgramming-Lesson-02/SleepData/obj/x86/Debug/SleepData.pdb
+/Users/nealhoward/Desktop/WCTC/Spring 2020/dotNet Database Prog/NETDBProgramming-Lesson-02/SleepData/bin/Debug/SleepData.exe
+/Users/nealhoward/Desktop/WCTC/Spring 2020/dotNet Database Prog/NETDBProgramming-Lesson-02/SleepData/bin/Debug/SleepData.pdb
+/Users/nealhoward/Desktop/WCTC/Spring 2020/dotNet Database Prog/NETDBProgramming-Lesson-02/SleepData/bin/Debug/NLog.dll
+/Users/nealhoward/Desktop/WCTC/Spring 2020/dotNet Database Prog/NETDBProgramming-Lesson-02/SleepData/bin/Debug/NLog.xml
+/Users/nealhoward/Desktop/WCTC/Spring 2020/dotNet Database Prog/NETDBProgramming-Lesson-02/SleepData/obj/x86/Debug/SleepData.csprojAssemblyReference.cache
+/Users/nealhoward/Desktop/WCTC/Spring 2020/dotNet Database Prog/NETDBProgramming-Lesson-02/SleepData/obj/x86/Debug/SleepData.csproj.CopyComplete
+/Users/nealhoward/Desktop/WCTC/Spring 2020/dotNet Database Prog/NETDBProgramming-Lesson-02/SleepData/obj/x86/Debug/SleepData.exe
+/Users/nealhoward/Desktop/WCTC/Spring 2020/dotNet Database Prog/NETDBProgramming-Lesson-02/SleepData/obj/x86/Debug/SleepData.pdb
+/Volumes/NO NAME/NETDBProgramming-Lesson-02/SleepData/bin/Debug/SleepData.exe
+/Volumes/NO NAME/NETDBProgramming-Lesson-02/SleepData/bin/Debug/SleepData.pdb
+/Volumes/NO NAME/NETDBProgramming-Lesson-02/SleepData/bin/Debug/NLog.dll
+/Volumes/NO NAME/NETDBProgramming-Lesson-02/SleepData/bin/Debug/NLog.xml
+/Volumes/NO NAME/NETDBProgramming-Lesson-02/SleepData/obj/x86/Debug/SleepData.csprojAssemblyReference.cache
+/Volumes/NO NAME/NETDBProgramming-Lesson-02/SleepData/obj/x86/Debug/SleepData.csproj.CopyComplete
+/Volumes/NO NAME/NETDBProgramming-Lesson-02/SleepData/obj/x86/Debug/SleepData.exe
+/Volumes/NO NAME/NETDBProgramming-Lesson-02/SleepData/obj/x86/Debug/SleepData.pdb
+/Volumes/NO NAME/StringInterpolation/SleepData/bin/Debug/SleepData.exe
+/Volumes/NO NAME/StringInterpolation/SleepData/bin/Debug/SleepData.pdb
+/Volumes/NO NAME/StringInterpolation/SleepData/bin/Debug/NLog.dll
+/Volumes/NO NAME/StringInterpolation/SleepData/bin/Debug/NLog.xml
+/Volumes/NO NAME/StringInterpolation/SleepData/obj/x86/Debug/SleepData.csprojAssemblyReference.cache
+/Volumes/NO NAME/StringInterpolation/SleepData/obj/x86/Debug/SleepData.csproj.CopyComplete
+/Volumes/NO NAME/StringInterpolation/SleepData/obj/x86/Debug/SleepData.exe
+/Volumes/NO NAME/StringInterpolation/SleepData/obj/x86/Debug/SleepData.pdb
+D:\StringInterpolation\SleepData\bin\Debug\SleepData.exe.config
+D:\StringInterpolation\SleepData\bin\Debug\SleepData.exe
+D:\StringInterpolation\SleepData\bin\Debug\SleepData.pdb
+D:\StringInterpolation\SleepData\bin\Debug\NLog.dll
+D:\StringInterpolation\SleepData\bin\Debug\NLog.xml
+D:\StringInterpolation\SleepData\obj\x86\Debug\SleepData.csprojAssemblyReference.cache
+D:\StringInterpolation\SleepData\obj\x86\Debug\SleepData.csproj.CopyComplete
+D:\StringInterpolation\SleepData\obj\x86\Debug\SleepData.exe
+D:\StringInterpolation\SleepData\obj\x86\Debug\SleepData.pdb

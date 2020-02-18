@@ -1,0 +1,13 @@
+/Users/nealhoward/Downloads/NETDBProgramming-Lesson-02/YourName/bin/Debug/YourName.exe
+/Users/nealhoward/Downloads/NETDBProgramming-Lesson-02/YourName/bin/Debug/YourName.pdb
+/Users/nealhoward/Downloads/NETDBProgramming-Lesson-02/YourName/obj/x86/Debug/YourName.exe
+/Users/nealhoward/Downloads/NETDBProgramming-Lesson-02/YourName/obj/x86/Debug/YourName.pdb
+D:\StringInterpolation\YourName\bin\Debug\YourName.exe.config
+D:\StringInterpolation\YourName\bin\Debug\YourName.exe
+D:\StringInterpolation\YourName\bin\Debug\YourName.pdb
+D:\StringInterpolation\YourName\bin\Debug\NLog.dll
+D:\StringInterpolation\YourName\bin\Debug\NLog.xml
+D:\StringInterpolation\YourName\obj\x86\Debug\YourName.csprojAssemblyReference.cache
+D:\StringInterpolation\YourName\obj\x86\Debug\YourName.csproj.CopyComplete
+D:\StringInterpolation\YourName\obj\x86\Debug\YourName.exe
+D:\StringInterpolation\YourName\obj\x86\Debug\YourName.pdb
