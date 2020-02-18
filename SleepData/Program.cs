@@ -15,10 +15,10 @@ namespace SleepData
             string resp = Console.ReadLine();
 
             // specify path for data file
-            //string file = "data.txt";
-            string file = AppDomain.CurrentDomain.BaseDirectory + "data.txt";
+            string file = "data.txt";
+            //string file = AppDomain.CurrentDomain.BaseDirectory + "data.txt";
 
-            if (resp == "1")
+            if (resp == "1") 
             {
                 // create data file
 
@@ -57,7 +57,7 @@ namespace SleepData
                 }
                 sw.Close();
             }
-            else if (resp == "2")
+            else if (resp == "2")//parse data file
             {
                 string readFile = "data.txt";
                 StreamReader sleep = new StreamReader(readFile);
@@ -88,6 +88,8 @@ namespace SleepData
                     //Console.WriteLine("Week of ",arg[0].ToString("D", culture);
                     Console.WriteLine("{0,-3}{1,-3}{2,-3}{3,-3}{4,-3}{5,-3}{6,-3}\n",hours[0],hours[1],hours[2], hours[3], hours[4], hours[5], hours[6]);
                 }
+                Console.WriteLine("press enter to end program");
+                string pause = Console.ReadLine();
                 sleep.Close();
 
                 
